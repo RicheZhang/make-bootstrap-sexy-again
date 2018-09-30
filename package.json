@@ -1,6 +1,6 @@
 {
   "name": "make-bootstrap-sexy-again",
-  "description": "A Vue.js project",
+  "description": "Demonstrates Bootstrap 4 integration and customization with Vue.js.",
   "version": "1.0.0",
   "author": "Bjorn Krols <krols.bj@gmail.com>",
   "private": true,

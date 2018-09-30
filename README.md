@@ -4,7 +4,7 @@
 
 ## About
 
-Based on the webpack-simple template for vue-cli.
+Based on the webpack-simple template for vue-cli 2.
 
 Demonstrates integration and customization of Bootstrap 4 as explained in the following article: https://medium.com/@BjornKrols/integrating-and-customising-bootstrap-4-in-vue-js-cbc29ba7688e
 
